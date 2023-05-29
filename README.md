@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Menecucci</h1>
 <h3 align="center">A passionate developer from Brazil living on Lisbon, Portugal</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47tda1evyp8s9ua1ywpeouywze08vbthxzb33fx36x&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47tda1evyp8s9ua1ywpeouywze08vbthxzb33fx36x&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **{{ Dashboard Web App }}**
 
